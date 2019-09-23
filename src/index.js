@@ -16,4 +16,9 @@ const ddd = () => {
   console.log("dsdsds");
 };
 
+if (35) {
+}
+
 ddd();
+
+import "./css/style.css";
